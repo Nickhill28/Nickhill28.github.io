@@ -5,44 +5,45 @@
 - "Nikhil" = 'Whole' | "Gupta" = 'Beginning Here'. 
 - In a Nutshell I am ✨"Beginning of the Whole".✨
 
-- ⚡ Fun fact: ... 
+- ⚡ Nick fact: ... 
      - 0220 is an Angel Number for Love and Gratitude. 
      - One can literally do anything still practice makes the difference.
     
 
-- 📫 How to reach me: ...  +91 UP70
+- 📫 How to reach Nick: ...  +91 UP70
 
-- 🌱 I’m currently learning ... To built an asset out of me being benificial for the Whole and me.
+- 🌱 I’m currently learning ... 
+     - being an Asset to the changing World.
+     - Possible scenarios to fit in.
+     - Possible MoneyFlow through OpenSource.
+     - Building my Social Outreach in the Tech showbiz.
 
-      
 
-- 💬 Ask me about: ...    
-    - Psychology                                                                                 
-    - Space | Time | Dilation                                                                      
-    - Science                                                                                 
-    - Programming                                                                             
-    - Politics                                                                               
-    - Possible Money Flow                                                                        
-    - Accents
-    
-    
-- 🔭 I’m currently working on ...
+- 💬 Ask Nick about: ...    
+    - Psychology | Science |  Politics                                                                                
+    - Space | Time | Dilation                                                                                                                                                     
+    - Programming | Accents |  Possible Money Flow                                                                                                                                                                                                                      
+- 🔭 Nick is currently working on ...
     - Hoax Detector| NLP
     - Realtime Subtitles| AR
     - Insighting X-ray| ML
     - Audio OAuth| Audio Fingerprinting
 
-- 🤔 I’m looking for help with ...
+- 🤔 Nick is looking for help with ...
      - Data Structures| java
      - Data Visualizatio| D3.js
      
-- 👯 I’m looking to collaborate on ...
-     - Community Project : <b>NicknShe</b>
+- 👯 Nick up for Colabortion with...
+     - Community Project : **NicknShe** [nick-n-she.community]
      - Collaborative Project : **CityScrapper** [Prayagraj]
       
-      - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | Angel number: 0220  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
+      - 😄 Pronouns: ...  
+           - 🐦snickeret | ♓NickHill | 
+           - Angel number: 0220  | 👽prawnick | 
       
-                                                                                                      ### BeeHumble 👋
+      - iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ  |  ### BeeHumble 👋
+      
+                                                                                                     
 
 
 ### Work with Me
