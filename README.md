@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 ### Hi there 👋
-- "Nikhil" ='Whole' | "Gupta" = 'Beginning Here' .In a Nutshell Nikhil Gupta stands for ✨"Beginning of the Whole".✨
+- "Nikhil" ='Whole' | "Gupta" = 'Beginning Here'. 
+- In a Nutshell I am ✨"Beginning of the Whole".✨
 
 - ⚡ Fun fact: ... 
      - 0220 is an Angel Number for Love and Gratitude. 
@@ -25,27 +26,28 @@
     
     
 - 🔭 I’m currently working on ...
-    - Hoax Detector        | NLP
-    - Realtime Subtitles   | AR
+    - Hoax Detector     | NLP
+    - Realtime Subtitles     | AR
     - Insighting X-ray     | ML
-    - Audio OAuth          | Audio Fingerprinting
+    - Audio OAuth     | Audio Fingerprinting
 
 - 🤔 I’m looking for help with ...
-     - Data Structures    | java
-     - Data Visualizatio  | D3.js
+     - Data Structures     | java
+     - Data Visualizatio     | D3.js
      
 - 👯 I’m looking to collaborate on ...
-     - Personal Project <b>NicknShe</b>
+     - Community Project : <b>NicknShe</b>
+     - Collaborative Project : **CityScrapper** [Prayagraj]
       
       - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | Angel number: 0220  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
       
                                                                                                       ### BeeHumble 👋
-Nickfolio (https://hinickin.vercel.app)   - My personalised Portfolio website.
-![Image](https://pbs.twimg.com/profile_images/1299768143376601089/ol2cUy-k_400x400.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work with Me
+
+- [Nickfolio](https://hinickin.vercel.app)   - My personalised Portfolio website.
+- ![Image](https://pbs.twimg.com/profile_images/1299768143376601089/ol2cUy-k_400x400.jpg)
 
 ```markdown
 Syntax highlighted code block
