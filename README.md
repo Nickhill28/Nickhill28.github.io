@@ -1,7 +1,7 @@
 ## Welcome to NickHub 
 
-### Hi there 👋
-- Thee Showbiz has a potential owner who goes by the name *Nikhil Gupta*.
+### Hi there Im Nick👋
+- The potential owner goes by the name *Nikhil Gupta*.
 - "Nikhil" = 'Whole' | "Gupta" = 'Beginning Here'. 
 - In a Nutshell I am ✨"Beginning of the Whole".✨
 
@@ -20,17 +20,17 @@
 
 
 - 💬 Ask Nick about: ...    
-    - Psychology | Science |  Politics                                                                                
-    - Space | Time | Dilation                                                                                                                                                     
-    - Programming | Accents |  Possible Money Flow                                                                                                                                                                                                                      
+    - Psychology|Science|Politics                                                                                
+    - Space|Time|Dilation                                                                                                                                                     
+    - Programming|Accents|Possible Money Flow                                                                                                                                                                                                                      
 - 🔭 Nick is currently working on ...
-    - Hoax Detector| NLP
-    - Realtime Subtitles| AR
-    - Insighting X-ray| ML
-    - Audio OAuth| Audio Fingerprinting
+    - Hoax Detector     |NLP
+    - Realtime Subtitles|AR
+    - Insighting X-ray  |ML
+    - Audio OAuth       |Audio Fingerprinting
 
 - 🤔 Nick is looking for help with ...
-     - Data Structures| java
+     - Data Structures  | java
      - Data Visualizatio| D3.js
      
 - 👯 Nick up for Colabortion with...
@@ -38,10 +38,10 @@
      - Collaborative Project : **CityScrapper** [Prayagraj]
       
       - 😄 Pronouns: ...  
-           - 🐦snickeret | ♓NickHill | 
-           - Angel number: 0220  | 👽prawnick | 
+            🐦snickeret | ♓NickHill | 
+            Angel number: 0220  | 👽prawnick | 
       
-      - iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ  |  ### BeeHumble 👋
+       iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ  |  ### BeeHumble 👋
       
                                                                                                      
 
