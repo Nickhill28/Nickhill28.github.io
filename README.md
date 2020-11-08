@@ -47,7 +47,7 @@
 
 
 ## Work with Me
-![Image](https://www.instagram.com/p/B2oFGxAAAziG0hC8wx93BQUUP7Pa8DTPMcThd80/)
+![Image](https://imgur.com/Q7wEX2R)
 
 - [Nickfolio](https://hinickin.vercel.app)   **My personalised Portfolio website.**
 
