@@ -47,7 +47,7 @@
 
 
 ## Work with Me
-![Image](https://imgur.com/Q7wEX2R)
+![Image](https://github.com/Nickhill28/Nickhill28.github.io/blob/master/nickmage.jpg?raw=true)
 
 - [Nickfolio](https://hinickin.vercel.app)   **My personalised Portfolio website.**
 
